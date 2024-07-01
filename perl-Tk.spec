@@ -4,7 +4,7 @@
 #
 Name     : perl-Tk
 Version  : 804.036
-Release  : 17
+Release  : 18
 URL      : https://cpan.metacpan.org/authors/id/S/SR/SREZIC/Tk-804.036.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/S/SR/SREZIC/Tk-804.036.tar.gz
 Summary  : 'Tk - a Graphical User Interface Toolkit'
